@@ -24,10 +24,13 @@ public class c_act_list_prov extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.act_list_prov);
 		String[] prov={
-				"NAD","Sumatera Utara","Sumatera Barat", "Riau", "Lampung",
-				"Bengkulu","Jambi","Sumatera Selatan","Gorontalo","Bali","Bangka Belitung",
-				"Banten","DKI Jakarta","Jawa Barat","Jawa Tengah","Jawa Timur",
-				"Kepulauan Riau","DI Yogyakarta"  
+				"NAD","Sumatera Utara","Sumatera Barat", "Riau", "Kepulauan Riau", "Jambi"
+				,"Sumatera Selatan","Bangka Belitung","Bengkulu","Lampung","Banten"
+				,"DKI Jakarta","Jawa Barat","Jawa Tengah","DI Yogyakarta","Jawa Timur"
+				,"Kalimantan Barat","Kalimantan Tengah","Kalimantan Selatan","Kalimantan Timur"
+				,"Sulawesi Selatan","Sulawesi Barat","Sulawesi Tenggara","Sulawesi Tengah"
+				,"Gorontalo","Sulawesi Utara","Bali","Nusa Tenggara Barat","Nusa Tenggara Timur"
+				,"Maluku","Maluku Utara","Papua Barat","Papua","Kalimantan Utara"
 		};
 		list = (ListView)findViewById(R.id.listview1);
 		input = (EditText)findViewById(R.id.InputSearch);

@@ -25,7 +25,7 @@ public class c_tab_main extends FragmentActivity implements
 	private c_tab_adapter mAdapter;
 	private ActionBar actionBar;
 	// Tab titles
-	private String[] tabs = { "Suku Daerah","Baju Adat" ,"Rumah Adat","Makanan Khas","Tari Adat","Senjata Tradisional","Lagu Daerah"};
+	private String[] tabs = { "Suku Daerah","Pakaian Adat" ,"Rumah Adat","Makanan Khas","Tari Adat","Senjata Tradisional","Lagu Daerah"};
 
 	@SuppressLint("NewApi")
 	@Override

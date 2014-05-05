@@ -12,17 +12,85 @@ import android.widget.TextView;
 
 public class c_tab_item_bajuadat extends Fragment {
 	private String[] listProv = {
-			"NAD","Sumatera Utara","Sumatera Barat", "Riau", "Lampung",
-			"Bengkulu","Jambi","Sumatera Selatan","Gorontalo","Bali","Bangka Belitung","Banten",
-			"DKI Jakarta","Jawa Barat","Jawa Tengah","Jawa Timur","Kepulauan Riau",
-			"DI Yogyakarta"
+			"NAD","Sumatera Utara","Sumatera Barat", "Riau", "Kepulauan Riau", "Jambi"
+			,"Sumatera Selatan","Bangka Belitung","Bengkulu","Lampung","Banten"
+			,"DKI Jakarta","Jawa Barat","Jawa Tengah","DI Yogyakarta","Jawa Timur"
+			,"Kalimantan Barat","Kalimantan Tengah","Kalimantan Selatan","Kalimantan Timur"
+			,"Sulawesi Selatan","Sulawesi Barat","Sulawesi Tenggara","Sulawesi Tengah"
+			,"Gorontalo","Sulawesi Utara","Bali","Nusa Tenggara Barat","Nusa Tenggara Timur"
+			,"Maluku","Maluku Utara","Papua Barat","Papua","Kalimantan Utara"
+			
 	};
 	private int[] listtxtbaju = {
 			R.string.s_prov_baju_0,
-			R.string.s_prov_baju_1
+			R.string.s_prov_baju_1,
+			R.string.s_prov_baju_2,
+			R.string.s_prov_baju_3,
+			R.string.s_prov_baju_4,
+			R.string.s_prov_baju_5,
+			R.string.s_prov_baju_6,
+			R.string.s_prov_baju_7,
+			R.string.s_prov_baju_8,
+			R.string.s_prov_baju_9,
+			R.string.s_prov_baju_10,
+			R.string.s_prov_baju_11,
+			R.string.s_prov_baju_12,
+			R.string.s_prov_baju_13,
+			R.string.s_prov_baju_14,
+			R.string.s_prov_baju_15,
+			R.string.s_prov_baju_16,
+			R.string.s_prov_baju_17,
+			R.string.s_prov_baju_18,
+			R.string.s_prov_baju_19,
+			R.string.s_prov_baju_20,
+			R.string.s_prov_baju_21,
+			R.string.s_prov_baju_22,
+			R.string.s_prov_baju_23,
+			R.string.s_prov_baju_24,
+			R.string.s_prov_baju_25,
+			R.string.s_prov_baju_26,
+			R.string.s_prov_baju_27,
+			R.string.s_prov_baju_28,
+			R.string.s_prov_baju_29,
+			R.string.s_prov_baju_30,
+			R.string.s_prov_baju_31,
+			R.string.s_prov_baju_32,
+			R.string.s_prov_baju_33
 	};
 	private int[] imgbaju = {
-			R.drawable.pa_aceh,
+			R.raw.pa_aceh,
+			R.raw.pa_sumut,
+			R.raw.pa_sumut,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
+			R.drawable.ic_launcher,
 			R.drawable.ic_launcher
 	};
 	@Override
@@ -37,7 +105,7 @@ public class c_tab_item_bajuadat extends Fragment {
 		int a = 0;
 		for(int i=0;i<listProv.length;i++){ 
 			if(kirim.equals(listProv[i]))
-			   { //pakek softtex :v sensitif
+			   { //Hati-hati kurung kurawalnya sensitif
 				txt.setText(listtxtbaju[i]);
 				img.setImageResource(imgbaju[i]);
 				}

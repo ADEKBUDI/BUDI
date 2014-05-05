@@ -33,7 +33,7 @@
         android1:layout_marginLeft="20dp"
         android1:layout_marginRight="20dp"
         android1:background="@drawable/border"
-        android1:text="Baju Adat"
+        android1:text="Pakaian Adat"
         android1:textColor="#000" />
  
 </RelativeLayout>
