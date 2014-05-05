@@ -1,0 +1,6 @@
+6. Apa saja kegunaan dari procedure di dalam SQL server!
+7. mengapa google menggunakan BIG TABLE!
+   mengapa tidak menggunakan RDMS seperti My SQL saja!
+8. berikan contoh penginputan 10 kunci dengan linear hashing!
+9. berikan contoh penginputan 10 kunci kedalam B+ tree!
+10. Bagaiman cara kerja ARIES!

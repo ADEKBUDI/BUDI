@@ -16,9 +16,9 @@ public class c_tab_item_penjelasansuku extends Fragment {
 			"DKI Jakarta","Jawa Barat","Jawa Tengah","Jawa Timur","Kepulauan Riau",
 			"DI Yogyakarta"
 	};
-	private int[][] listsuku = {
-			{R.string.s_prov_suku_0},
-			{R.string.s_prov_suku_1}
+	private int[] listsuku = {
+			R.string.s_prov_suku_0,
+			R.string.s_prov_suku_1
 	};
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -33,7 +33,7 @@ public class c_tab_item_penjelasansuku extends Fragment {
 		txtp.setText(temp);
 		for(int i=0;i<listProv.length;i++){ 
 			if(kirim.equals(listProv[i])) 
-				txt.setText(listsuku[i][0]);
+				txt.setText(listsuku[i]);
 		}
 		return rootView;
 	}
