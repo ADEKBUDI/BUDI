@@ -27,6 +27,7 @@
         android1:id="@+id/txtBaju"
         android1:layout_width="match_parent"
         android1:layout_height="wrap_content"
+        android1:textAppearance="?android:attr/textAppearanceMedium"
         android1:layout_alignParentLeft="true"
         android1:layout_below="@+id/imgBaju"
         android1:layout_marginTop="27dp"

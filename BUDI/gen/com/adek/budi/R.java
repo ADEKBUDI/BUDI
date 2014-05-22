@@ -27,31 +27,53 @@ public final class R {
         public static final int activity_vertical_margin=0x7f060001;
     }
     public static final class drawable {
-        public static final int border=0x7f020000;
-        public static final int bottombatik=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
-        public static final int pa_aceh=0x7f020003;
+        public static final int bg_player_footer=0x7f020000;
+        public static final int bg_player_header=0x7f020001;
+        public static final int border=0x7f020002;
+        public static final int bottombatik=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int img_seekbar_bg=0x7f020005;
+        public static final int img_seekbar_progress_blue=0x7f020006;
+        public static final int pa_aceh=0x7f020007;
+        public static final int seek_handler=0x7f020008;
+        public static final int seekbar_progress=0x7f020009;
+        public static final int seekbar_progress_bg=0x7f02000a;
+        public static final int track_info_bg=0x7f02000b;
     }
     public static final class id {
         public static final int InputSearch=0x7f0a0001;
         public static final int NameList=0x7f0a000b;
         public static final int SoundBar=0x7f0a0008;
-        public static final int action_settings=0x7f0a0012;
+        public static final int action_settings=0x7f0a0020;
         public static final int btn_keluar=0x7f0a0005;
         public static final int btn_provinsi=0x7f0a0003;
         public static final int btn_setting=0x7f0a0004;
         public static final int btn_tentang_budi=0x7f0a0002;
+        public static final int imageButton1=0x7f0a0014;
         public static final int imgBaju=0x7f0a000c;
+        public static final int imgMakanan=0x7f0a0015;
+        public static final int imgRumah=0x7f0a0019;
+        public static final int imgSenjata=0x7f0a001b;
+        public static final int imgTari=0x7f0a001d;
         public static final int listview1=0x7f0a0000;
-        public static final int pager=0x7f0a0011;
-        public static final int textMakanan=0x7f0a000e;
+        public static final int ll1=0x7f0a000e;
+        public static final int ll2=0x7f0a0010;
+        public static final int pager=0x7f0a001f;
+        public static final int player_footer_bg=0x7f0a0013;
+        public static final int songProgressBar=0x7f0a0011;
+        public static final int songTitle=0x7f0a000f;
         public static final int textView1=0x7f0a0006;
         public static final int textView2=0x7f0a0007;
         public static final int textView3=0x7f0a0009;
         public static final int themeSong=0x7f0a000a;
         public static final int txtBaju=0x7f0a000d;
-        public static final int txtP=0x7f0a0010;
-        public static final int txtSuku=0x7f0a000f;
+        public static final int txtLirik=0x7f0a0012;
+        public static final int txtMakanan=0x7f0a0016;
+        public static final int txtP=0x7f0a0018;
+        public static final int txtRumah=0x7f0a001a;
+        public static final int txtSenjata=0x7f0a001c;
+        public static final int txtSuku=0x7f0a0017;
+        public static final int txtTari=0x7f0a001e;
     }
     public static final class layout {
         public static final int act_list_prov=0x7f030000;
@@ -75,6 +97,7 @@ public final class R {
     public static final class raw {
         public static final int pa_aceh=0x7f050000;
         public static final int pa_sumut=0x7f050001;
+        public static final int sound2=0x7f050002;
     }
     public static final class string {
         public static final int action_settings=0x7f0700ef;

@@ -14,17 +14,18 @@ public class c_act_splash_adek extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 
+		final int musiclist[] = {R.raw.sound2};
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 		overridePendingTransition(R.anim.fadein, R.anim.fadeout);
 		super.onCreate(savedInstanceState);
+		c_media.playAudio(c_act_splash_adek.this, musiclist[0]);
 		setContentView(R.layout.act_splash_adek);
 		Thread logoTimer = new Thread(){
 			public void run(){
 				try{
-					sleep(4000);
+					sleep(2000);
 					Intent i = new Intent("com.act.adek.budi.C_ACT_SPLASH_BUDI");
-					i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK|Intent.FLAG_ACTIVITY_NO_ANIMATION);
 					startActivity(i);
 				} catch (InterruptedException e) {
 					// TODO Auto-generated catch block

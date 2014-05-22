@@ -63,10 +63,7 @@ public class c_tab_item_makanankhas extends Fragment {
 		View rootView = inflater.inflate(R.layout.tab_item_makanankhas, container, false);
 		Bundle data = getActivity().getIntent().getExtras();
 		String kirim = data.getString("kirim");
-		TextView txt = (TextView)rootView.findViewById(R.id.textMakanan);
-		TextView txtp = (TextView)rootView.findViewById(R.id.txtP);
-		//temp +=txtp.getText()+ " "+kirim;
-		//txtp.setText(temp);
+		TextView txt = (TextView)rootView.findViewById(R.id.txtMakanan);
 		for(int i=0;i<listProv.length;i++){ 
 			if(kirim.equals(listProv[i])) 
 				txt.setText(Listmakanan[i]);

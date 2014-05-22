@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
-
 public class c_act_splash_budi extends Activity {
 
 	@Override
@@ -22,7 +21,6 @@ public class c_act_splash_budi extends Activity {
 				try{
 					sleep(4000);
 					Intent i = new Intent("com.act.adek.budi.C_ACT_MENU");
-					i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK|Intent.FLAG_ACTIVITY_NO_ANIMATION);
 					startActivity(i);
 				} catch (InterruptedException e) {
 					// TODO Auto-generated catch block
