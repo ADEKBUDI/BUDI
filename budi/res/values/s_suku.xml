@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s_prov_suku_0">Ada 8 suku yaitu :\n 1. Aceh\n 2. Gayo\n 3. Kluet\n 4. Alas\n 5. Tamiang\n 6. Aneuk Jamee\n 7. Simeulu\n 8. Jawa</string>
+    <string name="s_prov_suku_1">Ada 9 suku yaitu :\n 1. Melayu\n 2. Karo\n 3. Simalungun\n 4. Pakpak/Dairi\n 5. Batak Toba\n 6. Mandailing\n 7. Pesisir (Tapanuli Tengah)\n 8. Nias\n 9. Jawa</string>
+    <string name="s_prov_suku_2">Ada 7 suku yaitu :\n 1. Minagkabau\n 2. Guci\n 3. Jaubak\n 4. Piliang\n 5. Chaniago\n 6. Tanjung\n 7. Koto</string>
+    <string name="s_prov_suku_3">Ada 5 suku yaitu :\n 1. Sakai\n 2. Talang Mamak\n 3. Suku Laut\n 4. Kualam Bonai\n 5. Akit</string>
+    <string name="s_prov_suku_4">Ada 3 suku yaitu :\n 1. Bonai\n 2. Melayu\n 3. Kula/Laut</string>
+    <string name="s_prov_suku_5">Ada 8 suku yaitu :\n 1. Kerinci\n 2. Kubu\n 3. Melayu\n 4. Bajau\n 5. Tale\n 6. Batin\n 7. Suku Anak Dalam\n 8. Jambi</string>
+    <string name="s_prov_suku_6">Ada 11 suku yaitu :\n 1. Komering\n 2. Palembang\n 3. Pasemah\n 4. Semendo\n 5. Ranau\n 6. Kisam\n 7. Ogan\n 8. Lematang\n 9. Rejang\n 10. Rawas\n 11. Kubu</string>
+    <string name="s_prov_suku_7">Ada 4 suku yaitu :\n 1. Melayu\n 2. Pangkal Pinang\n 3. Toboali\n 4. Bugis</string>
+    <string name="s_prov_suku_8">Ada 7 suku yaitu :\n 1. Melayu\n 2. Serawai\n 3. Rejang\n 4. Pasemah\n 5. Mukomuko\n 6. Enggano\n 7. Lembak</string>
+    <string name="s_prov_suku_9">Ada 5 suku yaitu :\n 1. Jawa\n 2. Sunda\n 3. Batak\n 4. Melayu\n 5. Lampung (Sebatin dan Pepadun)</string>
+    <string name="s_prov_suku_10">Ada 3 suku yaitu :\n 1. Badui\n 2. Sunda\n 3. Banten</string>
+    <string name="s_prov_suku_11">Ada 3 suku yaitu :\n 1. Betawi\n 2. Jawa\n 3. Sunda</string>
+    <string name="s_prov_suku_12">Ada 2 suku yaitu :\n 1. Sunda\n 2. Cirebon</string>
+    <string name="s_prov_suku_13">Ada 1 suku yaitu :\n Jawa</string>
+    <string name="s_prov_suku_14"></string>
+    <string name="s_prov_suku_15"></string>
+    <string name="s_prov_suku_16"></string>
+    <string name="s_prov_suku_17"></string>
+    <string name="s_prov_suku_18"></string>
+    <string name="s_prov_suku_19"></string>
+    <string name="s_prov_suku_20"></string>
+    <string name="s_prov_suku_21"></string>
+    <string name="s_prov_suku_22"></string>
+    <string name="s_prov_suku_23"></string>
+    <string name="s_prov_suku_24"></string>
+    <string name="s_prov_suku_25"></string>
+    <string name="s_prov_suku_26"></string>
+    <string name="s_prov_suku_27"></string>
+    <string name="s_prov_suku_28"></string>
+    <string name="s_prov_suku_29"></string>
+    <string name="s_prov_suku_30"></string>
+    <string name="s_prov_suku_31"></string>
+    <string name="s_prov_suku_32"></string>
+    <string name="s_prov_suku_33"></string>
+</resources>

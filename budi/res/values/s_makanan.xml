@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s_prov_makanan_0">1. Kue Bhoi\n2. Pengat Ikan Depik\n3. Sie Reubouh Cuka\n4. Ayam Tangkap\n5. Dalca</string>
+    <string name="s_prov_makanan_1">Arsik\n\n
+
+Arsik adalah salah satu masakan khas kawasan Tapanuli yang populer. Masakan ini dikenal pula sebagai ikan mas bumbu kuning. Ikan mas adalah bahan utama, yang dalam penyiapannya tidak dibuang sisiknya.\n
+Bumbu arsik sangat khas, mengandung beberapa komponen yang khas dari wilayah pegunungan Sumatera Utara, seperti andaliman dan asam cikala (buah kecombrang), selain bumbu khas Nusantara yang umum, seperti lengkuas dan serai. Bumbu-bumbu yang dihaluskan dilumuri pada tubuh ikan beberapa saat. Ikan kemudian dimasak dengan sedikit minyak dan api kecil hingga agak mengering.\n\n
+        Makanan Khas dari Sumatera Utara lainnya adalah Lalamak, Sangsang, Bika Ambon, Tasak Telu, Anyang, Gulai Tumbuk, Mi Keling, Palai Bada Sibolga.</string>
+    <string name="s_prov_makanan_2">1. Rendang\n2. Sate Padang\n3. Dendeng Balado\n4. Itiak Lado Mudo\n5. Bubur Kampiun</string>
+    <string name="s_prov_makanan_3">1. Roti Jalu\n2. Teri Lado Mudo</string>
+    <string name="s_prov_makanan_4">1. Mi Lendir\n2. Siput Gonggong</string>
+    <string name="s_prov_makanan_5">1. Tempoyak\n2.Gulai Rebung Jambi\n3. Putri Kandis Pelangi</string>
+    <string name="s_prov_makanan_6">1. Pempek\n2. Tekwan</string>
+    <string name="s_prov_makanan_7">1. Belacan\n2. Calok\n3. Getas (Kerupuk Bangka)\n4. Lempah Darat\n5. Lempah Kuning\n6. Martabak Bangka\n7. Kwetiau Bangka</string>
+    <string name="s_prov_makanan_8">1. Oncong-oncong Pisang</string>
+    <string name="s_prov_makanan_9">1. Srawit Lampung\n2. Punyeu Baung\n3. Malbi Hati\n4. Gulai Balak\n5. Gulai Taboh\n6. Maksuba</string>
+    <string name="s_prov_makanan_10">1. Taoge Goreng\n2. Rabeg\n3. Jojorong\n4. Apem Putih\n5. Bubur Ayam Banten\n6. Angeun Lada</string>
+    <string name="s_prov_makanan_11">1. Gado-gado\n2. Kerak Telor\n3. Dodol Betawi\n4. Nasi Ulam\n5. Soto Betawi\n6. Ketoprak Betawi\n7. Nasi Uduk Betawi</string>
+    <string name="s_prov_makanan_12">1. Peuyeum\n2. Dodol Garut Colenak\n3. Oncom\n4. Pepes\n5. Sirpan\n6. Siomay Bandung\n7. Sate Bandeng\n8. Daging Lapis\n9. Pepes Ikan Majalaya\n10. Sayur Asem</string>
+    <string name="s_prov_makanan_13">1. Lumpia\n2. Ampyang\n3. Nasi Kuning Banjar\n4. Nasi Gandul</string>
+    <string name="s_prov_makanan_14">1. Gudeg\n2. Bakpia\n3. Geplak Bantul</string>
+    <string name="s_prov_makanan_15">1. Semanggi\n2. Rujak Cingur\n3. Bakso Malang\n4.Tahu Campur Lamongan\n5. Pecel Tumpang Kediri\n6. Japit Udang Madura\n7. Kue Lapis Surabaya\n8. Soto Madura\n9. Sate Ayam Madura</string>
+    <string name="s_prov_makanan_16">1. Kue Limpin\n2. Mesbah Ubi Singkong\n3. Lapis Susu</string>
+    <string name="s_prov_makanan_17">1. Kalo-kalo</string>
+    <string name="s_prov_makanan_18">1. Ayam Masak Hijau\n2. Buah Jinggah\n3. Masak habang\n4. Amaparan Tatak Pisang\n5. Sambal Goreng Bawak Serentak</string>
+    <string name="s_prov_makanan_19">1. petah\n2. Sangah Cobek Salat\n3. Ayam Cincane</string>
+    <string name="s_prov_makanan_20">1. Coto Makassar\n2. Palu Konro\n3. Palu Basa\n4. Nasu Likku\n5. Sop Konro\n6. Baronang Bakar\n7. Kapurung\n8. Pallu Mara Cakalang\n9. Barobbo\n10. Barongko</string>
+    <string name="s_prov_makanan_21">1. Loka Anjoroi\n2. Baye\n3. Jepa</string>
+    <string name="s_prov_makanan_22">1. Sasate Nangka\n2. Soami\n3. Kambalu</string>
+    <string name="s_prov_makanan_23">1. Kaledo</string>
+    <string name="s_prov_makanan_24">1. Ayam Panggang Ilolabu</string>
+    <string name="s_prov_makanan_25">1. Ayam Rica-rica\n2. Bubur Manado (Bubur Tinutuan)\n3. Ayam Garo Rica\n4. Tuturuga\n5. Cakalang Pampis\n6. Daging Rica-rica\n7. Woku Belanga\n8. Lalampa\n9. Binte Bilihuta</string>
+    <string name="s_prov_makanan_26">1. Be\'siap Base Palaleh\n2. Sate Be\'Sampe\n3. Zukut Undis\n4. Ayam Bakar Betutu\n5. Jukut Urap\n6. Serapah Daging\n7. Kenus Mebase</string>
+    <string name="s_prov_makanan_27">1. Ayam Taliwang\n2. Sate Bulayak\n3. Plecing Kangkung</string>
+    <string name="s_prov_makanan_28">1. Gecak Sape\n2. Petepah Manuk</string>
+    <string name="s_prov_makanan_29">1. Palai Badar\n2. Dabu-dabu Sesi\n3. Tumis unga Pepaya\n4. Saba\'au Sopek Odheng</string>
+    <string name="s_prov_makanan_30">1. Papeda (Sagu)\n2. Ketam Kenari\n3. Halua Kenari\n4. Ikan Fufu\n5. Gohu Ikan\n6. Ikan Garu Rica</string>
+    <string name="s_prov_makanan_31">1. Papeda\n2. Sop Hapire\n3. Aunu Kerang</string>
+    <string name="s_prov_makanan_32">1. Sop Hapire\n2. Aunu Kerang</string>
+    <string name="s_prov_makanan_33">1. </string>
+</resources>
